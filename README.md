@@ -12,7 +12,7 @@
 👯 I’m open to collaboration on **LLM Apps**, **ML-based Automation Tools**, and **Vision + Language AI Projects**  
 🌱 Actively learning and building with **LangChain**, **GPT-4o**, and advanced **Vector DB orchestration**  
 💬 Ask me about **Python, SQL, GPT APIs, LangChain, Streamlit, OpenCV, Computer Vision, and Azure Cloud**  
-📫 Reach me at: **sulabh.email@example.com**  
+📫 Reach me at: **sulabh2711@gmail.com**  
 ⚡ Fun Fact: I once made GPT-4o not just tell stories — but **see, remember, and paint them too** 😉
 
 ---
